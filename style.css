@@ -1,0 +1,77 @@
+*{ 
+    font-family: 'Dancing Script' 'Outfit';
+    background-image: url(img/3.jpg);
+    background-size: cover;
+}
+
+.navbar{
+    display: inline;
+    margin-top: 10%;
+    padding-left: 1%;
+    font-family: 'Outfit';
+    word-spacing: 10px;
+    text-align: right;
+    /* border: 1px solid; */
+    border-bottom: 2px solid rgb(163, 117, 65);
+    line-height: 70px;
+    background: transparent;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-family: 'Outfit';
+    text-align: right;
+    background: transparent;
+}
+.navbar h1{
+    text-align: left;
+    padding-top: 5px;
+    font-family: 'Dancing Script';
+    display: inline;
+    word-spacing: 2px;
+    cursor: pointer;
+font-size: 250%;
+background: transparent;
+color: #fff;
+}
+.navbar h1 a{
+color: rgb(163, 117, 65);
+}
+
+.main-content{
+    text-align: center ;
+    margin-top: 150px ;
+    background: transparent;
+}
+
+.main-content h1{
+    font-family: 'Dancing Script';
+    text-transform: capitalize;
+    font-size: 35px;
+    background: transparent;
+    color: #fff;
+}
+
+.main-content p{
+    font-family: 'Outfit';
+    background: transparent;
+    color: #fff;
+}
+.box{
+    background-color: transparent;
+}
+.box p{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    padding-top: 12px;
+    height: 30px;
+    width: 10%;
+    border: 3px solid rgb(163, 117, 65) ;
+    color: #fff;
+    background: transparent;
+    border-radius: 35px;
+    cursor: pointer;
+    font-family: 'Outfit';
+}   
